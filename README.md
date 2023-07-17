@@ -1,2 +1,2 @@
 # Portfolio - Personal Site
-Initial html site - CV/Portfolio
+Initial html site - Portfolio
